@@ -2,5 +2,5 @@
 
 # TO DO LIST
 - [x] OOP subject
-- [] GitHub update 
-- [] C-- update
+- [ ] GitHub update 
+- [ ] C-- update
